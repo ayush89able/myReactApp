@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          React finally working
+          React finally working with github pages
         </a>
       </header>
     </div>
